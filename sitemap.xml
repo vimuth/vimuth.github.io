@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
+    <url>
+        <loc>http://vimuth.github.io/blog/2014/05/02/this-is-the-title-of-my-new-post/</loc>
+        <lastmod>2014-05-02T22:00:17+05:30</lastmod>
+    </url>
+    <url>
+        <loc>http://vimuth.github.io/blog/archives/</loc>
+        <lastmod>2014-05-02T22:00:17+05:30</lastmod>
+    </url>
+    <url>
+        <loc>http://vimuth.github.io/</loc>
+        <lastmod>2014-05-02T22:00:17+05:30</lastmod>
+    </url>
+    <url>
+        <loc>http://vimuth.github.io/robots.txt</loc>
+        <lastmod>2014-05-02T21:57:33+05:30</lastmod>
+    </url>
+</urlset>
