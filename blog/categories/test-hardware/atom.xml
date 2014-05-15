@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Vimuth's Blog]]></title>
-  <link href="http://vimuth.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Test,hardware | Vimuth's Blog]]></title>
+  <link href="http://vimuth.github.io/blog/categories/test-hardware/atom.xml" rel="self"/>
   <link href="http://vimuth.github.io/"/>
   <updated>2014-05-15T11:46:21+05:30</updated>
   <id>http://vimuth.github.io/</id>
